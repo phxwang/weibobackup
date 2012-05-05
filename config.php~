@@ -1,9 +1,0 @@
-<?php
-define( "WB_AKEY" , '210781319' );
-define( "WB_SKEY" , '8e7a40b6eb82a85e815e6c43a4caceaf');
-define("DB_HOST","3308.mysql.sae.sina.com.cn");
-define("DB_PORT", "3308");
-define("DB_NAME", "app_weibobackup");
-define("DB_USER", "xnw541xkl2");
-define("DB_PASSWORD", "y5x3wxx2xw0iyzx3j01310hixjyyjlmyk0y2j30x");
-?>
