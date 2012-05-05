@@ -1,7 +1,7 @@
 多功能新浪微博备份工具
 ======================
-原作者：陈钢长沙（新浪微博）Gossipcoder.com
-改进：phxwang
+* 原作者：陈钢长沙（新浪微博）Gossipcoder.com
+* 改进：phxwang
 
 VISION
 ------
